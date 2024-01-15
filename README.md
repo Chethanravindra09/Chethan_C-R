@@ -5,6 +5,10 @@
 - LinkedIn: [www.linkedin.com/in/chethan-channarayapatna-ravindra-b46351140](https://www.linkedin.com/in/chethan-c-r-b46351140/)
 - Mobile: +91 7892802839
 
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/Chethanravindra09)
+![GitHub stars](https://img.shields.io/github/stars/yourrepository?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourrepository?style=social)
+
 ## Professional Summary
 Experienced professional with 3+ years in Linux Administration and Software Development. Proven track record in optimizing server performance, implementing upgrades, and automating processes. Proficient in C, Java, Linux, JavaScript, and Shell Script. Skilled in project management, achieving high server uptime, and minimizing vulnerabilities. Seeking opportunities to apply technical skills and contribute to the success of innovative organizations.
 
